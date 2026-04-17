@@ -558,3 +558,5 @@ Stuck? Here are your options:
 ---
 
 Happy resume building! If you find Resume Matcher helpful, consider [starring the repo](https://github.com/srbhr/Resume-Matcher) and [joining our Discord](https://dsc.gg/resume-matcher).
+
+
