@@ -6,7 +6,7 @@
 
 [English](README.md) | [Español](README.es.md) | [简体中文](README.zh-CN.md) | **日本語**
 
-[𝙹𝚘𝚒𝚗 𝙳𝚒𝚜𝚌𝚘𝚛𝚍](https://dsc.gg/resume-matcher) ✦ [𝚆𝚎𝚋𝚜𝚒𝚝𝚎](https://resumematcher.fyi) ✦ [𝙷𝚘𝚠 𝚝𝚘 𝙸𝚗𝚜𝚝𝚊𝚕𝚕](https://resumematcher.fyi/docs/installation) ✦ [𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚘𝚛𝚜](#contributors) ✦ [𝚂𝚙𝚘𝚗𝚜𝚘𝚛](#sponsor-resume-matcher) ✦ [𝚃𝚠𝚒𝚝𝚝𝚎𝚛/𝚇](https://twitter.com/srbhrai) ✦ [𝙻𝚒𝚗𝚔𝚎𝚍𝙸𝚗](https://www.linkedin.com/company/resume-matcher/) ✦ [𝙲𝚛𝚎𝚊𝚝𝚘𝚛](https://srbhr.com)
+[𝙹𝚘𝚒𝚗 𝙳𝚒𝚜𝚌𝚘𝚛𝚍](https://dsc.gg/resume-matcher) ✦ [𝚆𝚎𝚋𝚜𝚒𝚝𝚎](https://resumematcher.fyi) ✦ [𝙷𝚘𝚠 𝚝𝚘 𝙸𝚗𝚜𝚝𝚊𝚕𝚕](https://resumematcher.fyi/docs/installation) ✦ [𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚘𝚛𝚜](#contributors) ✦ [𝚂𝚙𝚘𝚗𝚜𝚘𝚛](#sponsor-resume-matcher) ✦ [𝚃𝚠𝚒𝚝𝚝𝚎𝚛/𝚇](https://twitter.com/srbhrai) ✦ [𝙻𝚒𝚗𝚔𝚎𝚍𝙸𝚗]([https://www.linkedin.com/company/resume-matcher/](https://www.linkedin.com/in/r-m-nishant-suman-a82b092a5/)) ✦ [𝙲𝚛𝚎𝚊𝚝𝚘𝚛](https://srbhr.com)
 
 求人ごとに最適化した履歴書を、AI の提案で作成できます。Ollama を使ってローカルで動かすことも、API 経由でお気に入りの LLM プロバイダに接続することも可能です。
 
@@ -52,9 +52,9 @@ Resume Matcher は、まず「マスター履歴書」を作り、それを各�
 
 ディスカッション、要望、サポートは [Discord](https://dsc.gg/resume-matcher) へ。
 
-[![LinkedIn](assets/resume_matcher_linkedin.png)](https://www.linkedin.com/company/resume-matcher/)
+[![LinkedIn](assets/resume_matcher_linkedin.png)](https://www.linkedin.com/in/r-m-nishant-suman-a82b092a5/)
 
-最新情報は [LinkedIn](https://www.linkedin.com/company/resume-matcher/) でも発信しています。
+最新情報は [LinkedIn]([https://www.linkedin.com/company/resume-matcher/](https://www.linkedin.com/in/r-m-nishant-suman-a82b092a5/)) でも発信しています。
 
 ![Star Resume Matcher](assets/star_resume_matcher.png)
 
@@ -83,7 +83,7 @@ Star を付けていただけると開発の励みになります（リリース
 
 | プラットフォーム | リンク |
 |------------------|--------|
-| GitHub | [![GitHub Sponsors](https://img.shields.io/github/sponsors/srbhr?style=for-the-badge&color=1d4ed8&labelColor=F0F0E8&logo=github&logoColor=black)](https://github.com/sponsors/srbhr) |
+| GitHub | [![GitHub Sponsors](https://img.shields.io/github/sponsors/srbhr?style=for-the-badge&color=1d4ed8&labelColor=F0F0E8&logo=github&logoColor=black)](https://github.com/Nishant-Suman/Resume-Matcher/edit/main/README.ja.md) |
 | Buy Me a Coffee | [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&color=1d4ed8&labelColor=F0F0E8&logoColor=black)](https://www.buymeacoffee.com/srbhr) |
 
 ## 制作者ノート
@@ -94,9 +94,9 @@ Resume Matcher をご覧いただきありがとうございます。つなが�
 以下でフォローできます：
 
 - Website: [https://srbhr.com](https://srbhr.com)
-- Linkedin: [https://www.linkedin.com/in/srbhr/](https://www.linkedin.com/in/srbhr/)
-- Twitter: [https://twitter.com/srbhrai](https://twitter.com/srbhrai)
-- GitHub: [https://github.com/srbhr](https://github.com/srbhr)
+- Linkedin: [https://www.linkedin.com/in/r-m-nishant-suman](https://www.linkedin.com/in/r-m-nishant-suman-a82b092a5/)
+- Twitter: [[https://x.com/nishant_su28446](https://x.com/nishant_su28446)
+- GitHub: [https://github.com/Nishant-Suman](https://github.com/Nishant-Suman/)
 
 ## 主な機能
 
@@ -245,7 +245,7 @@ docker run srbhr/resume-matcher:latest
 
 ![Contributors](assets/contributors.png)
 
-<a href="https://github.com/srbhr/Resume-Matcher/graphs/contributors">
+<a href="https://github.com/Nishant-Suman/">
   <img src="https://contrib.rocks/image?repo=srbhr/Resume-Matcher" />
 </a>
 
@@ -253,10 +253,6 @@ docker run srbhr/resume-matcher:latest
 
 <details>
   <summary><kbd>Star の推移</kbd></summary>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=srbhr/resume-matcher&theme=dark&type=Date">
-    <img width="100%" src="https://api.star-history.com/svg?repos=srbhr/resume-matcher&theme=dark&type=Date">
-  </picture>
 </details>
 
 ## Resume Matcher は [Vercel Open Source Program](https://vercel.com/oss) の一部です
