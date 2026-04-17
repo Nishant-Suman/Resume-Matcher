@@ -85,21 +85,19 @@ Por favor lee nuestra [Sponsorship Guide](https://resumematcher.fyi/docs/sponsor
 
 | Plataforma  | Enlace |
 |-----------|--------|
-| GitHub | [![GitHub Sponsors](https://img.shields.io/github/sponsors/srbhr?style=for-the-badge&color=1d4ed8&labelColor=F0F0E8&logo=github&logoColor=black)](https://github.com/sponsors/srbhr) |
-| Buy Me a Coffee | [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&color=1d4ed8&labelColor=F0F0E8&logoColor=black)](https://www.buymeacoffee.com/srbhr) |
+| GitHub | [![GitHub Sponsors](https://img.shields.io/github/sponsors/srbhr?style=for-the-badge&color=1d4ed8&labelColor=F0F0E8&logo=github&logoColor=black)]([https://github.com/sponsors/srbhr](https://github.com/Nishant-Suman/)) |
+| Buy Me a Coffee | [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&color=1d4ed8&labelColor=F0F0E8&logoColor=black)] |
 
 ## Nota del Creador
 
 Gracias por visitar Resume Matcher. Si quieres conectar, colaborar o simplemente saludar, ¡no dudes en contactarme!
-~ **Saurabh Rai** ✨
+~ **R.M.Nishant Suman** ✨
 
 Puedes seguirme en:
 
-- Website: [https://srbhr.com](https://srbhr.com)
-- Linkedin: [https://www.linkedin.com/in/srbhr/](https://www.linkedin.com/in/srbhr/)
-- Twitter: [https://twitter.com/srbhrai](https://twitter.com/srbhrai)
-- GitHub: [https://github.com/srbhr](https://github.com/srbhr)
-
+- Linkedin: [https://www.linkedin.com/in/r-m-nishant-suman](https://www.linkedin.com/in/r-m-nishant-suman-a82b092a5/)
+- Twitter: [[https://x.com/nishant_su28446](https://x.com/nishant_su28446)
+- GitHub: [https://github.com/Nishant-Suman](https://github.com/Nishant-Suman/)
 ## Funciones clave
 
 ![resume_matcher_features](assets/features.png)
@@ -214,9 +212,7 @@ Abre **<http://localhost:3000>** y configura tu proveedor de IA en Settings.
 ### Despliegue con Docker
 
 ```bash
-docker pull srbhr/resume-matcher:latest
 
-docker run srbhr/resume-matcher:latest
 ```
 
 <!-- Nota: La documentación de Docker está pendiente. Por ahora, usa docker-compose.yml como referencia -->
@@ -247,16 +243,11 @@ Echa un vistazo al roadmap si te gustaría trabajar en las características que 
 
 ![Colaboradores](assets/contributors.png)
 
-<a href="https://github.com/srbhr/Resume-Matcher/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=srbhr/Resume-Matcher" />
+<a href="https://github.com/srbhr/Resume-Matcher/graphs/contributors">click me
 </a>
 
 <details>
   <summary><kbd>Historial de Estrellas</kbd></summary>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=srbhr/resume-matcher&theme=dark&type=Date">
-    <img width="100%" src="https://api.star-history.com/svg?repos=srbhr/resume-matcher&theme=dark&type=Date">
-  </picture>
 </details>
 
 ## Resume Matcher es parte del [Vercel Open Source Program](https://vercel.com/oss)
